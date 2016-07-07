@@ -1,9 +1,17 @@
 # Linux/Unix-Make
-Make code in c++
+Make command code in c++
+
+Clone the repository
+
+Use the systems make command:
 
 $make
 
+Update the timestamp of one of the files:
+
 $touch MakeTree.cpp
+
+Recomplie using the make.x file: 
 
 $./make.x Makefile
 
