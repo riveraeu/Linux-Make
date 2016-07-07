@@ -1,4 +1,4 @@
-# Linux-Make
+# Linux/Unix-Make
 Make code in c++
 
 $make
